@@ -1,0 +1,9 @@
+
+### **requirements.txt** (зависимости)
+```txt
+# Sea Battle Game Requirements
+# Все библиотеки идут в стандартной поставке Python 3
+# Этот файл создан для совместимости
+
+python>=3.6
+# Tkinter встроен в стандартную библиотеку Python
